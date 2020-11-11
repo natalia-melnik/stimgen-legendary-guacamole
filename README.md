@@ -2,6 +2,7 @@
 An easy way to create many strings of images (if you have the images ready). 
 ## create-mixed-strings:
 - will create strings from the images that are provided
+- very handy if you would like to check how your 30+k of target variations look!
 ```
 from create_mixed_strings import *
 targ_list = ['trg\\t1.png', 'trg\\t2.png', 'trg\\t3.png', 'trg\\t4.png', 'trg\\t5.png', 'trg\\f1.png', 'trg\\f2.png', 'trg\\f3.png', 'trg\\f4.png', 'trg\\f5.png']
